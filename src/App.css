@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.footer-list {
+  list-style-type: none;
+}
+
+.footer-list li {
+  margin-left: .25rem;
+  margin-right: .25rem;
+  vertical-align: middle;
+  display: inline;
+}
